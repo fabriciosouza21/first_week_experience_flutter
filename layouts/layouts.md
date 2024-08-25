@@ -1,6 +1,6 @@
 # Compreendendo o layout
 
-No flutter tudo é um widget. Widgets são os blocos de construção de um aplicativo Flutter. Um widget é uma descrição declarativa de uma parte da interface do usuário. Os widgets são compostos e aninhados para construir interfaces complexas.
+No flutter tudo é um widget. Widgets são os blocos de construção de um aplicativo Flutter. Um widget é uma descrição declarativa de uma parte da interface do usuário. Os widgets são compostos e aninhados para construir interfaces complexas..
 
 ![alt text](image.png)
 
